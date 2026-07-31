@@ -1,0 +1,2 @@
+# lite-scripts
+rust project
